@@ -1,10 +1,10 @@
 button{
     width:250px;
     height:80px;
-    font-family: Roboto, sans-serif;
-    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.5rem;
     font-weight: bold;
-    color: white;
+    color: #000;
     border: 2px solid white;
     border-radius: 15px;
     margin: 5px;
@@ -12,13 +12,21 @@ button{
 }
 
 button:hover{
-    background-color: #00471b;
+    background-color: #028f76;
 }
 
 .boton-clic{
-    background-color: #002ead;
+    background-color: #ffeaad;
 }
 
 .boton-reiniciar{
-    background-color: #5a01a7;
+    background-color: #d14334;
 }
+
+button:hover {
+    border-color: #cdd071;
+  }
+  button:focus,
+  button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }
