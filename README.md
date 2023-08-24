@@ -10,6 +10,6 @@
     5. Vite
     6. VSCode
   
-  [Link a la app](https://xemicris.github.io/Contador-Digital/)
+  >[Link a la app](https://xemicris.github.io/Contador-Digital/)
   
   >Portafolio: [xemicris.com](https://xemicris.com)
