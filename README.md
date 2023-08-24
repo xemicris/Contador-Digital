@@ -12,4 +12,4 @@
   
   [Link a la app](https://xemicris.github.io/Contador-Digital/)
   
-  Más desarrollos en: [xemicris.com](https://xemicris.com)
+  >Portafolio: [xemicris.com](https://xemicris.com)
