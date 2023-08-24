@@ -3,7 +3,7 @@
 
   Tecnologías y herramientas utilizadas:
   
-    1 React
+    1. React
     2. JavaScript
     3. HTML
     4. CSS
